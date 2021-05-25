@@ -11,6 +11,6 @@ cd vpn-openconnect
 ## Uso dos Scripts
 Abra o terminal e digite: **vpn**
 
-Efetue o login de rede e a senha de sudo:
+Preencha o login de rede e a senha de sudo:
 
 ![image](https://user-images.githubusercontent.com/12938990/119537096-16aeda00-bd60-11eb-96ea-c8a2c7c315e7.png)
