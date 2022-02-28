@@ -2,6 +2,7 @@
 Script que instala o openconnect e cria link simbólico vpn no terminal
 
 Fork de: https://gitlab.tjdft.jus.br/configuracao/vpn-openconnect
+
 Colaboradores: Paulo Alexandre, Tobias e Paulo Sérgio.
 
 ## Instalação
